@@ -15,6 +15,6 @@ CH1 Tutorial Exercises
 5. Mississipi
 6. Minimum: 1.2 Maximum: 9575.6 Average: 375.81
 7. Annotation, Dimensions, Multipoints, Multipatches
-8. https://i.gyazo.com/094b5c6d7fb60548563dedd569b1a440.png
+8. [alt text](https://i.gyazo.com/094b5c6d7fb60548563dedd569b1a440.png)
 9. https://i.gyazo.com/f27ea0e8a4886b514ad8a0b99d11dfcb.jpg
 10. https://i.gyazo.com/d10879167ceb7890fe5b5b985a621853.png
